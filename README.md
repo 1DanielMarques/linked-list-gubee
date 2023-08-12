@@ -15,5 +15,4 @@
   - Se entendeu o desafio e como essas estrutura se comportam dentro da memória do computador
   - Será necessário apresentar resolvido
 - Ao final dar permissão para o usuario "renatojavagarcia" no novo repositório criado.
-
-![Alt text](<Imagem do WhatsApp de 2023-08-12 à(s) 00.38.59.jpg>)
+<img width="50%" height="700px" src="https://github.com/1DanielMarques/linked-list-gubee/assets/100451032/0c66070a-b936-4eaa-a440-f67d3b3dfa1f"/>
