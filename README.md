@@ -15,3 +15,5 @@
   - Se entendeu o desafio e como essas estrutura se comportam dentro da memória do computador
   - Será necessário apresentar resolvido
 - Ao final dar permissão para o usuario "renatojavagarcia" no novo repositório criado.
+
+![Alt text](<Imagem do WhatsApp de 2023-08-12 à(s) 00.38.59.jpg>)
